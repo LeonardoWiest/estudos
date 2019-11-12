@@ -1,0 +1,1 @@
+package br.ufes.inf.designpatterns.creational.abstractfactory.helloworld;/** * Interface para impressores de strings. *  * @author Vitor E. Silva Souza (vitorsouza@gmail.com) * @version 2005.07.01 */public interface Impressor {	/** Imprime uma string. */	void imprimir(String string);}

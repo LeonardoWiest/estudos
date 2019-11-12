@@ -1,0 +1,1 @@
+package br.ufes.inf.designpatterns.creational.abstractfactory.pizzaria;/** * Representa um calzone. *  * @author Vitor E. Silva Souza (vitorsouza@gmail.com) * @version 2013.03.05 */public abstract class Calzone {	/** Retorna a lista de ingredientes do calzone. */	public abstract String obterIngredientes();}
