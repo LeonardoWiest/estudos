@@ -1,1 +1,0 @@
-package br.ufes.inf.designpatterns.creational.abstractfactory.helloworld;/** * Fábrica abstrata de impressores de strings. Foi definida como interface pois só possui a declaração dos métodos. *  * @author Vitor E. Silva Souza (vitorsouza@gmail.com) * @version 2005.07.01 */public interface FabricaAbstrata {	/** Cria um impressor. */	Impressor criarImpressor();}

@@ -1,1 +1,0 @@
-package br.ufes.inf.designpatterns.creational.abstractfactory.pizzaria;/** * Representa uma pizza. *  * @author Vitor E. Silva Souza (vitorsouza@gmail.com) * @version 2013.03.05 */public abstract class Pizza {	/** Retorna a lista de ingredientes da pizza. */	public abstract String obterIngredientes();}
